@@ -20,7 +20,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg">
 
 </div>
 
