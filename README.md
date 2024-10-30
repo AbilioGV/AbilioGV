@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbilioGV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilioGV&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br>
   <div style="display: inline_block" align="center"><br>
 
   ### Skills:
@@ -35,7 +35,7 @@
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg">
 
 </div>
-
+<br>
   <p></p>
   <div align="center"> 
   <a href = "abiliogvfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
