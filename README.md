@@ -29,11 +29,11 @@
   <img align="center" alt="Swift" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg">
 
   ### Tools:
+  <img align="center" alt="VScode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
   <img align="center" alt="Xd" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/XD.svg">
   <img align="center" alt="Ps" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
   <img align="center" alt="Ai" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg">
-  <img align="center" alt="VScode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
   
 
 </div>
