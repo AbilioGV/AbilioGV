@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f2ea8&height=120&section=header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    // <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Abilio+Gonçalves!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG"> //
   </a>
 </p>
 
@@ -49,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbilioGV}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f2ea8&height=120&section=footer"/>
